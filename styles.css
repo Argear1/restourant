@@ -117,6 +117,10 @@ html {
   font-size: 80px;
 }
 
+.header-suptitle span {
+  color: #000;
+} 
+
 .header-suptitle {
   color: #fff;
   font-size: 18px;
